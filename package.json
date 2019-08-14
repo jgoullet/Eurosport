@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "dirty-chai": "^2.0.1",
+    "lodash.template": "^4.4.0",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
